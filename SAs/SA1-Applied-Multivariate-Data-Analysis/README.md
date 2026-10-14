@@ -41,7 +41,7 @@ The following multivariate techniques were applied to the dataset:
 ## Software Used
 
 * **Language:** R
-* **Environment:** RStudio / Kaggle Notebooks
+* **Environment:** Kaggle Notebooks
 * **Key Packages:** `tidyverse` (data manipulation and visualization), `corrplot` (correlation matrices), `psych` (EFA and descriptive statistics), `factoextra` (PCA visualization), `effectsize` (MANOVA effect sizes), and `heplots` (Box's M test).
 
 ## Instructions for Reproducing the Analysis
