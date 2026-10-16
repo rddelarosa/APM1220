@@ -2,7 +2,7 @@
 
 ## Research Questions
 
-# This project examines the chemical properties of Portuguese Vinho Verde wines and aims to answer three main research questions:
+This project examines the chemical properties of Portuguese Vinho Verde wines and aims to answer three main research questions:
 
 1. **MANOVA:** Is there a significant difference between red and white wines based on fixed acidity, volatile acidity, residual sugar, and chlorides when these variables are considered together?
 2. **PCA:** Can the 11 physicochemical variables be reduced to a smaller number of principal components while still explaining a large part of the variation in the data?
